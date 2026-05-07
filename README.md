@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css" />
 </p>
 
 ### 📱 Mobile App Development
